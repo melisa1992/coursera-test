@@ -1,0 +1,15 @@
+body {
+    font-size: 16px;
+    color:blueviolet;
+    background-color:rgb(192, 250, 238);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+/** HEADER **/
+#header-nav {
+    background-color: rgb(247, 184, 25);
+}
+
+#logo-img {
+    background: url ('../Images/Quaint Restaurant Logo.png) no-repeat;
+}
